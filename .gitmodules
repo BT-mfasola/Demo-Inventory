@@ -1,0 +1,4 @@
+[submodule "ext/account-analytic"]
+	path = ext/account-analytic
+	url = git@github.com:OCA/account-analytic.git
+	branch = 11.0
